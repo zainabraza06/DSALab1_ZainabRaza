@@ -1,4 +1,5 @@
 # DSALab1_ZainabRaza
 
-This line was edited differently on conflict branch (local).
+
+CONFLICT_MARKER: edited on MAIN (web)--- Conflict Resolved
 
